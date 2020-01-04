@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              jongwhoa.lee@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             willook
-baseurl:            ""
+baseurl:            "willook.github.io"
 url:                "https://willook.github.io"
 
 # Social Profiles
