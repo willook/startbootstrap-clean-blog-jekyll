@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deeplearning-04-CNN-Course"
+title: "Deeplearning-04-CNN-Course_2"
 date: 2020-05-15 00:48:13 -0400
 background: '/img/posts/05.jpg'
 ---
