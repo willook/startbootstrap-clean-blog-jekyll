@@ -4,9 +4,11 @@ title: "Deeplearning-04-CNN-Course"
 date: 2020-05-15 00:48:13 -0400
 background: '/img/posts/05.jpg'
 ---
+![01.jpg](https://github.com/willook/willook.github.io/blob/master/img/mi333/02.png)
+
 <h2 class="section-heading"> Little Title 00 </h2>
 <p align="center">
-<img src="https://drive.google.com/open?id=1CR0RkV9BvCAYhQWxWjRwZzI5F0jS9PhL" width="25%">  
+<img src="https://github.com/willook/willook.github.io/blob/master/img/mi333/01.png" width="25%">  
 <img src="https://github.com/willook/willook.github.io/blob/master/img/mi333/02.png" width="25%">  
 </p>
 <p>infomation about above picture.</p>
